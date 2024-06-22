@@ -19,7 +19,7 @@ module.exports = {
     WARNING: "#F7E919",
   },
   CACHE_SIZE: {
-    GUILDS: 3à,
+    GUILDS: 30,
     USERS: 10000,
     MEMBERS: 10000,
   },
